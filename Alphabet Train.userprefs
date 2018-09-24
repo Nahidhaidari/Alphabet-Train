@@ -1,0 +1,36 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\CheckAnswer.cs">
+    <Files>
+      <File FileName="Assets\Script\Moving.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\SceneChanger.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\PlayerAudio.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\UI.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\GameData.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Move.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Drag_and_Drop_Demo\Drag and Drop Demo\Assets\Scripts\InputManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\CheckAnswer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\rotator.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\AlphaCheckCtrl.cs" Line="14" Column="26" />
+      <File FileName="Assets\Script\AlphabetCntrl\AudioFX.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\AlphabetCntrl\A_Latter_Animation_Audio.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\AlphabetCntrl\B_Latter_Animation_Audio.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\AlphabetCntrl\LetterCntrl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\AlphabetCntrl\C_Latter_Animation_Audio.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\AlphabetCntrl\D_Latter_Animation_Audio.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\AlphabetCntrl\E_Latter_Animation_Audio.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\AlphabetCntrl\F_Latter_Animation_Audio.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\AlphabetCntrl\G_Latter_Animation_Audio.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Sfx.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\SfxCtrl.cs" Line="1" Column="1" />
+      <File FileName="Assets\DestroyWithDelay.cs" Line="1" Column="1" />
+      <File FileName="Assets\BtnCtrl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\GameCntrl.cs" Line="286" Column="37" />
+      <File FileName="Assets\Script\CloseGame.cs" Line="8" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
